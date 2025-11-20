@@ -167,7 +167,8 @@ body {
 
 
 ## OUTPUT:
-<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/6101d9e6-7985-4193-9542-36591e39f029" />
+<img width="708" height="396" alt="image" src="https://github.com/user-attachments/assets/3be432b7-d836-44a6-8116-a8e0922d1a67" />
+
 
 
 ## RESULT:
